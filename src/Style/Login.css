@@ -1,0 +1,21 @@
+.login-input {
+  display: flex;
+  justify-content: center;
+  margin-top: 10%;
+}
+
+@media (min-width: 600px) {
+  login-input {
+    margin-top: 60%;
+  }
+}
+
+.btn-color :disabled {
+  color: #ea9ab2;
+  border: #ea9ab2;
+}
+
+.btn-color {
+  color: #e27396;
+  margin-left: 80px;
+}
