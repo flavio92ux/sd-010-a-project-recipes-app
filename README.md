@@ -10,6 +10,9 @@ Projeto de front End desenvolvido em grupo com Alunos da Trybe (Flavio, Malu, Ma
   <li>npm start</li>
 </ul>
 
+
+Deploy ~> https://recipe-flavio-app.herokuapp.com/
+
  
 
 
